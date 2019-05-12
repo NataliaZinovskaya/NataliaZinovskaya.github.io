@@ -1,0 +1,147 @@
+@media screen and (max-width: 700px) {
+.general {
+  max-width: 700px;
+}
+  .header-title {
+    font-size: 33px;
+  }
+  .header-subtitle {
+    font-size: 27px;
+  }
+  header {
+    height: 320px;
+  }
+  .header-text-wrapper {
+    min-height: 310px;
+  }
+  .title-text-center {
+    width: 100%;
+  }
+  .skills-list {
+    min-height: 155px;
+  }
+  .watch-title {
+    font-size: 20px;
+  }
+  .watch-text {
+    width: 100%;
+  }
+  .block-watch-left {
+    min-height: 270px;
+  }
+  .block-watch-right {
+    min-height: 250px;
+  }
+  .play {
+    left: 40%;
+  }
+  .navbar-wrapper {
+    width: 100%;
+  }
+  .navbar {
+    font-size: 7px;
+  }
+  .backround-block {
+    min-height: 144px;
+  }
+  .section-wrapper {
+    min-height: 95px;
+  }
+  .section-box {
+    font-family: Arial Unicode MS;
+    color: #c5c5c5;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0px;
+    padding-left: 0px;
+    font-size: 13px;
+    height: 40px;
+    width: 103px;
+  }
+  .w-185 {
+    width: 116px;
+  }
+  .w-155 {
+    width: 92px;
+  }
+  .section-img1 {
+    width: 28px;
+    height: 26px;
+ }
+ .section-img2 {
+    width: 35px;
+    height: 35px;
+  }
+  .section-img3 {
+    height: 27px;
+  }
+  .about {
+    min-height: 300px;
+  }
+  .progress {
+    min-height: 300px;
+    padding-left: 15px;
+  }
+  .progress-title {
+    text-align: center;
+  }
+  .progress-sudtext {
+    font-size: 10px;
+  }
+  .progress-line {
+    width: 145px;
+  }
+  aside {
+    margin-top: 30px;
+  }
+  .features-content-wrapper {
+    margin-top: 0px;
+  }
+  .chose-plan-wrapper {
+    min-height: 1480px;
+  }
+  .offers {
+    height: auto;
+  }
+  .offers-button-wrapper {
+    height: 55px;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .general {
+    max-width: 1024px;
+  }
+  .title-text-center {
+    width: 70%;
+  }
+  .watch-text {
+    width: 95%;
+  }
+  .watch-title {
+    font-size: 23px;
+  }
+  .block-watch-right, .block-watch-left  {
+    min-height: 280px;
+  }
+  .play {
+    left: 43%;
+  }
+  .navbar-wrapper {
+    width: 75%;
+  }
+  .backround-block {
+    min-height: 340px;
+  }
+  .progress-line {
+    width: 190px;
+  }
+  .blog-post-title {
+    font-size: 15px;
+ }
+ .post-dlock-hover {
+    top: 35%;
+    left: 25%;
+    bottom: 40%;
+    right: 30%;
+  }
+}
